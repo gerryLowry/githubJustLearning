@@ -3,30 +3,31 @@
 
  Directory of H:\githubJustLearning\githubJustLearning
 
-2015-06-28  18:41    <DIR>          .
-2015-06-28  18:41    <DIR>          ..
-2015-06-28  18:05    <DIR>          .git
-2015-06-28  18:40             2,894 !_all_files_bare.txt
-2015-06-28  18:41                 0 !_all_files_dir.txt
-2015-06-28  17:59               106 README.md
-               3 File(s)          3,000 bytes
+2015-06-28  19:22    <DIR>          .
+2015-06-28  19:22    <DIR>          ..
+2015-06-28  19:22    <DIR>          .git
+2015-06-28  19:23             4,256 !_all_files_bare.txt
+2015-06-28  19:23                 0 !_all_files_dir.txt
+2015-06-28  19:05               208 README.md
+               3 File(s)          4,464 bytes
 
  Directory of H:\githubJustLearning\githubJustLearning\.git
 
-2015-06-28  18:05    <DIR>          .
-2015-06-28  18:05    <DIR>          ..
+2015-06-28  19:22    <DIR>          .
+2015-06-28  19:22    <DIR>          ..
 2015-06-28  17:59    <DIR>          branches
 2015-06-28  17:59    <DIR>          hooks
 2015-06-28  17:59    <DIR>          info
 2015-06-28  17:59    <DIR>          logs
-2015-06-28  17:59    <DIR>          objects
+2015-06-28  19:14    <DIR>          objects
 2015-06-28  17:59    <DIR>          refs
+2015-06-28  19:14                23 COMMIT_EDITMSG
 2015-06-28  17:59               342 config
 2015-06-28  17:59                73 description
 2015-06-28  17:59                23 HEAD
-2015-06-28  18:04               104 index
+2015-06-28  19:14               313 index
 2015-06-28  17:59               107 packed-refs
-               5 File(s)            649 bytes
+               6 File(s)            881 bytes
 
  Directory of H:\githubJustLearning\githubJustLearning\.git\branches
 
@@ -61,8 +62,8 @@
 2015-06-28  17:59    <DIR>          .
 2015-06-28  17:59    <DIR>          ..
 2015-06-28  17:59    <DIR>          refs
-2015-06-28  17:59               226 HEAD
-               1 File(s)            226 bytes
+2015-06-28  19:14               611 HEAD
+               1 File(s)            611 bytes
 
  Directory of H:\githubJustLearning\githubJustLearning\.git\logs\refs
 
@@ -76,33 +77,55 @@
 
 2015-06-28  17:59    <DIR>          .
 2015-06-28  17:59    <DIR>          ..
-2015-06-28  17:59               226 master
-               1 File(s)            226 bytes
+2015-06-28  19:14               611 master
+               1 File(s)            611 bytes
 
  Directory of H:\githubJustLearning\githubJustLearning\.git\logs\refs\remotes
 
 2015-06-28  17:59    <DIR>          .
 2015-06-28  17:59    <DIR>          ..
-2015-06-28  17:59    <DIR>          origin
+2015-06-28  18:58    <DIR>          origin
                0 File(s)              0 bytes
 
  Directory of H:\githubJustLearning\githubJustLearning\.git\logs\refs\remotes\origin
 
-2015-06-28  17:59    <DIR>          .
-2015-06-28  17:59    <DIR>          ..
+2015-06-28  18:58    <DIR>          .
+2015-06-28  18:58    <DIR>          ..
 2015-06-28  17:59               226 HEAD
-               1 File(s)            226 bytes
+2015-06-28  19:16               352 master
+               2 File(s)            578 bytes
 
  Directory of H:\githubJustLearning\githubJustLearning\.git\objects
 
-2015-06-28  17:59    <DIR>          .
-2015-06-28  17:59    <DIR>          ..
+2015-06-28  19:14    <DIR>          .
+2015-06-28  19:14    <DIR>          ..
+2015-06-28  18:50    <DIR>          10
+2015-06-28  18:48    <DIR>          2f
 2015-06-28  17:59    <DIR>          35
+2015-06-28  19:14    <DIR>          43
+2015-06-28  19:14    <DIR>          46
+2015-06-28  18:50    <DIR>          54
 2015-06-28  17:59    <DIR>          aa
+2015-06-28  19:14    <DIR>          b4
 2015-06-28  17:59    <DIR>          e7
+2015-06-28  18:48    <DIR>          f9
 2015-06-28  17:59    <DIR>          info
 2015-06-28  17:59    <DIR>          pack
                0 File(s)              0 bytes
+
+ Directory of H:\githubJustLearning\githubJustLearning\.git\objects\10
+
+2015-06-28  18:50    <DIR>          .
+2015-06-28  18:50    <DIR>          ..
+2015-06-28  18:50               185 5ef0383a908c9eda7070f4901c5f4c06152d28
+               1 File(s)            185 bytes
+
+ Directory of H:\githubJustLearning\githubJustLearning\.git\objects\2f
+
+2015-06-28  18:48    <DIR>          .
+2015-06-28  18:48    <DIR>          ..
+2015-06-28  18:48               966 75c9d362de21db66df035c446eb4448b9ecae1
+               1 File(s)            966 bytes
 
  Directory of H:\githubJustLearning\githubJustLearning\.git\objects\35
 
@@ -111,6 +134,27 @@
 2015-06-28  17:59                54 f9f4450a56ed8290bc66af6540489ceb13d88c
                1 File(s)             54 bytes
 
+ Directory of H:\githubJustLearning\githubJustLearning\.git\objects\43
+
+2015-06-28  19:14    <DIR>          .
+2015-06-28  19:14    <DIR>          ..
+2015-06-28  19:14               153 f86bc4fa45220fe6fb63946cc189f9dc7559c3
+               1 File(s)            153 bytes
+
+ Directory of H:\githubJustLearning\githubJustLearning\.git\objects\46
+
+2015-06-28  19:14    <DIR>          .
+2015-06-28  19:14    <DIR>          ..
+2015-06-28  19:14               128 6ffd5977e9a463ad855080cffbb79a8eae271f
+               1 File(s)            128 bytes
+
+ Directory of H:\githubJustLearning\githubJustLearning\.git\objects\54
+
+2015-06-28  18:50    <DIR>          .
+2015-06-28  18:50    <DIR>          ..
+2015-06-28  18:50               128 d57f6f35e943b102a78fd50d645ae62c069fde
+               1 File(s)            128 bytes
+
  Directory of H:\githubJustLearning\githubJustLearning\.git\objects\aa
 
 2015-06-28  17:59    <DIR>          .
@@ -118,12 +162,26 @@
 2015-06-28  17:59               150 edae501ebc8d22ec8b07dd2ca1b9ca5c8ad553
                1 File(s)            150 bytes
 
+ Directory of H:\githubJustLearning\githubJustLearning\.git\objects\b4
+
+2015-06-28  19:14    <DIR>          .
+2015-06-28  19:14    <DIR>          ..
+2015-06-28  19:14               183 fa00b39a251fa5948ed06b42b4a607d7309a4b
+               1 File(s)            183 bytes
+
  Directory of H:\githubJustLearning\githubJustLearning\.git\objects\e7
 
 2015-06-28  17:59    <DIR>          .
 2015-06-28  17:59    <DIR>          ..
 2015-06-28  17:59                94 69b713c7ab73937bac4707223589a2c64e3503
                1 File(s)             94 bytes
+
+ Directory of H:\githubJustLearning\githubJustLearning\.git\objects\f9
+
+2015-06-28  18:48    <DIR>          .
+2015-06-28  18:48    <DIR>          ..
+2015-06-28  18:48               453 9b0e64ef5e25c994b0537dbd26a1d06c93f5b7
+               1 File(s)            453 bytes
 
  Directory of H:\githubJustLearning\githubJustLearning\.git\objects\info
 
@@ -141,31 +199,32 @@
 
 2015-06-28  17:59    <DIR>          .
 2015-06-28  17:59    <DIR>          ..
-2015-06-28  17:59    <DIR>          heads
+2015-06-28  19:14    <DIR>          heads
 2015-06-28  17:59    <DIR>          remotes
 2015-06-28  17:59    <DIR>          tags
                0 File(s)              0 bytes
 
  Directory of H:\githubJustLearning\githubJustLearning\.git\refs\heads
 
-2015-06-28  17:59    <DIR>          .
-2015-06-28  17:59    <DIR>          ..
-2015-06-28  17:59                41 master
+2015-06-28  19:14    <DIR>          .
+2015-06-28  19:14    <DIR>          ..
+2015-06-28  19:14                41 master
                1 File(s)             41 bytes
 
  Directory of H:\githubJustLearning\githubJustLearning\.git\refs\remotes
 
 2015-06-28  17:59    <DIR>          .
 2015-06-28  17:59    <DIR>          ..
-2015-06-28  17:59    <DIR>          origin
+2015-06-28  19:16    <DIR>          origin
                0 File(s)              0 bytes
 
  Directory of H:\githubJustLearning\githubJustLearning\.git\refs\remotes\origin
 
-2015-06-28  17:59    <DIR>          .
-2015-06-28  17:59    <DIR>          ..
+2015-06-28  19:16    <DIR>          .
+2015-06-28  19:16    <DIR>          ..
 2015-06-28  17:59                32 HEAD
-               1 File(s)             32 bytes
+2015-06-28  19:16                41 master
+               2 File(s)             73 bytes
 
  Directory of H:\githubJustLearning\githubJustLearning\.git\refs\tags
 
@@ -174,5 +233,5 @@
                0 File(s)              0 bytes
 
      Total Files Listed:
-              26 File(s)         19,668 bytes
-              62 Dir(s)  70,784,602,112 bytes free
+              36 File(s)         24,723 bytes
+              83 Dir(s)  70,784,909,312 bytes free
