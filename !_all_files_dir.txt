@@ -1,0 +1,178 @@
+ Volume in drive H is data
+ Volume Serial Number is A89E-7AB6
+
+ Directory of H:\githubJustLearning\githubJustLearning
+
+2015-06-28  18:41    <DIR>          .
+2015-06-28  18:41    <DIR>          ..
+2015-06-28  18:05    <DIR>          .git
+2015-06-28  18:40             2,894 !_all_files_bare.txt
+2015-06-28  18:41                 0 !_all_files_dir.txt
+2015-06-28  17:59               106 README.md
+               3 File(s)          3,000 bytes
+
+ Directory of H:\githubJustLearning\githubJustLearning\.git
+
+2015-06-28  18:05    <DIR>          .
+2015-06-28  18:05    <DIR>          ..
+2015-06-28  17:59    <DIR>          branches
+2015-06-28  17:59    <DIR>          hooks
+2015-06-28  17:59    <DIR>          info
+2015-06-28  17:59    <DIR>          logs
+2015-06-28  17:59    <DIR>          objects
+2015-06-28  17:59    <DIR>          refs
+2015-06-28  17:59               342 config
+2015-06-28  17:59                73 description
+2015-06-28  17:59                23 HEAD
+2015-06-28  18:04               104 index
+2015-06-28  17:59               107 packed-refs
+               5 File(s)            649 bytes
+
+ Directory of H:\githubJustLearning\githubJustLearning\.git\branches
+
+2015-06-28  17:59    <DIR>          .
+2015-06-28  17:59    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of H:\githubJustLearning\githubJustLearning\.git\hooks
+
+2015-06-28  17:59    <DIR>          .
+2015-06-28  17:59    <DIR>          ..
+2015-06-28  17:59               452 applypatch-msg.sample
+2015-06-28  17:59               896 commit-msg.sample
+2015-06-28  17:59               189 post-update.sample
+2015-06-28  17:59               398 pre-applypatch.sample
+2015-06-28  17:59             1,642 pre-commit.sample
+2015-06-28  17:59             1,239 prepare-commit-msg.sample
+2015-06-28  17:59             1,352 pre-push.sample
+2015-06-28  17:59             4,951 pre-rebase.sample
+2015-06-28  17:59             3,611 update.sample
+               9 File(s)         14,730 bytes
+
+ Directory of H:\githubJustLearning\githubJustLearning\.git\info
+
+2015-06-28  17:59    <DIR>          .
+2015-06-28  17:59    <DIR>          ..
+2015-06-28  17:59               240 exclude
+               1 File(s)            240 bytes
+
+ Directory of H:\githubJustLearning\githubJustLearning\.git\logs
+
+2015-06-28  17:59    <DIR>          .
+2015-06-28  17:59    <DIR>          ..
+2015-06-28  17:59    <DIR>          refs
+2015-06-28  17:59               226 HEAD
+               1 File(s)            226 bytes
+
+ Directory of H:\githubJustLearning\githubJustLearning\.git\logs\refs
+
+2015-06-28  17:59    <DIR>          .
+2015-06-28  17:59    <DIR>          ..
+2015-06-28  17:59    <DIR>          heads
+2015-06-28  17:59    <DIR>          remotes
+               0 File(s)              0 bytes
+
+ Directory of H:\githubJustLearning\githubJustLearning\.git\logs\refs\heads
+
+2015-06-28  17:59    <DIR>          .
+2015-06-28  17:59    <DIR>          ..
+2015-06-28  17:59               226 master
+               1 File(s)            226 bytes
+
+ Directory of H:\githubJustLearning\githubJustLearning\.git\logs\refs\remotes
+
+2015-06-28  17:59    <DIR>          .
+2015-06-28  17:59    <DIR>          ..
+2015-06-28  17:59    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of H:\githubJustLearning\githubJustLearning\.git\logs\refs\remotes\origin
+
+2015-06-28  17:59    <DIR>          .
+2015-06-28  17:59    <DIR>          ..
+2015-06-28  17:59               226 HEAD
+               1 File(s)            226 bytes
+
+ Directory of H:\githubJustLearning\githubJustLearning\.git\objects
+
+2015-06-28  17:59    <DIR>          .
+2015-06-28  17:59    <DIR>          ..
+2015-06-28  17:59    <DIR>          35
+2015-06-28  17:59    <DIR>          aa
+2015-06-28  17:59    <DIR>          e7
+2015-06-28  17:59    <DIR>          info
+2015-06-28  17:59    <DIR>          pack
+               0 File(s)              0 bytes
+
+ Directory of H:\githubJustLearning\githubJustLearning\.git\objects\35
+
+2015-06-28  17:59    <DIR>          .
+2015-06-28  17:59    <DIR>          ..
+2015-06-28  17:59                54 f9f4450a56ed8290bc66af6540489ceb13d88c
+               1 File(s)             54 bytes
+
+ Directory of H:\githubJustLearning\githubJustLearning\.git\objects\aa
+
+2015-06-28  17:59    <DIR>          .
+2015-06-28  17:59    <DIR>          ..
+2015-06-28  17:59               150 edae501ebc8d22ec8b07dd2ca1b9ca5c8ad553
+               1 File(s)            150 bytes
+
+ Directory of H:\githubJustLearning\githubJustLearning\.git\objects\e7
+
+2015-06-28  17:59    <DIR>          .
+2015-06-28  17:59    <DIR>          ..
+2015-06-28  17:59                94 69b713c7ab73937bac4707223589a2c64e3503
+               1 File(s)             94 bytes
+
+ Directory of H:\githubJustLearning\githubJustLearning\.git\objects\info
+
+2015-06-28  17:59    <DIR>          .
+2015-06-28  17:59    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of H:\githubJustLearning\githubJustLearning\.git\objects\pack
+
+2015-06-28  17:59    <DIR>          .
+2015-06-28  17:59    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of H:\githubJustLearning\githubJustLearning\.git\refs
+
+2015-06-28  17:59    <DIR>          .
+2015-06-28  17:59    <DIR>          ..
+2015-06-28  17:59    <DIR>          heads
+2015-06-28  17:59    <DIR>          remotes
+2015-06-28  17:59    <DIR>          tags
+               0 File(s)              0 bytes
+
+ Directory of H:\githubJustLearning\githubJustLearning\.git\refs\heads
+
+2015-06-28  17:59    <DIR>          .
+2015-06-28  17:59    <DIR>          ..
+2015-06-28  17:59                41 master
+               1 File(s)             41 bytes
+
+ Directory of H:\githubJustLearning\githubJustLearning\.git\refs\remotes
+
+2015-06-28  17:59    <DIR>          .
+2015-06-28  17:59    <DIR>          ..
+2015-06-28  17:59    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of H:\githubJustLearning\githubJustLearning\.git\refs\remotes\origin
+
+2015-06-28  17:59    <DIR>          .
+2015-06-28  17:59    <DIR>          ..
+2015-06-28  17:59                32 HEAD
+               1 File(s)             32 bytes
+
+ Directory of H:\githubJustLearning\githubJustLearning\.git\refs\tags
+
+2015-06-28  17:59    <DIR>          .
+2015-06-28  17:59    <DIR>          ..
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+              26 File(s)         19,668 bytes
+              62 Dir(s)  70,784,602,112 bytes free
